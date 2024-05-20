@@ -1,16 +1,38 @@
-# auto_control_panel
+#Aluno:Bruno Rodrigues dos Santos Silva
 
-A new Flutter project.
+Disciplina: Desenvolvimento Mobile com Flutter [24E2_2]
 
-## Getting Started
+#Prints
 
-This project is a starting point for a Flutter application.
+TELA HOME - LISTA AS TAREFAS
 
-A few resources to get you started if this is your first Flutter project:
+<img src="prints/Lista_tarefas.png" alt="Lista de Tarefas" style="width:200px;heigth:200px">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+LISTA DE TAREFAS RESPONSIVA
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="prints/Listat_Responsive.png" alt="Lista de Tarefas" style="width:200px;heigth:200px">
+
+EDITAR TAREFA
+
+<img src="prints/Editar_tarefa.png" alt="Editar Tarefas" style="width:200px;heigth:200px">
+
+TAREFA SALVA
+
+<img src="prints/Nova_tarefa_salva.png" alt="Tarefa Salva" style="width:200px;heigth:200px">
+
+EDITAR TAREFA
+
+<img src="prints/Editar_tarefa.png" alt="Editar" style="width:200px;heigth:200px">
+
+TAREFA EDITADA
+
+<img src="prints/Tarefa_editada.png" alt="Tarefa editada" style="width:200px;heigth:200px">
+
+EXCLUIR TAREFA
+
+<img src="prints/Excluir_tarefa.png" alt="Excluir" style="width:200px;heigth:200px">
+
+TAREFA EXCLUIDA
+
+<img src="prints/Tarefa_excluida.png" alt="tarefa excluida" style="width:200px;heigth:200px">
+
